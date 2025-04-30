@@ -2,7 +2,7 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=19284534)
 # SESION DE LABORATORIO N° 03: Visualización de Datos con PowerBI
 
-### Nombre:
+### Nombre: Erick Yoel Ayma Choque
 
 ## OBJETIVOS
   * Comprender la organización la información de nuestros datos de tal manera que todos los que los vean 
