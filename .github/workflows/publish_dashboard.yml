@@ -24,7 +24,7 @@ jobs:
 
     - name: Upload PBIX via API
       run: |
-        curl -X POST "https://api.powerbi.com/v1.0/myorg/groups/${{ secrets.PBI_WORKSPACE_ID }}/imports?datasetDisplayName=lab03-DylanTapia" \
+        curl -X POST "https://api.powerbi.com/v1.0/myorg/groups/${{ secrets.PBI_WORKSPACE_ID }}/imports?datasetDisplayName=lab03-ErickAyma" \
           -H "Authorization: Bearer $(az account get-access-token --resource https://analysis.windows.net/powerbi/api --query accessToken -o tsv)" \
           -H "Content-Type: multipart/form-data" \
           -F "file=@lab03-DylanTapia.pbix"
