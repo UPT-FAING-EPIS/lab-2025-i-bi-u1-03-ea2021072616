@@ -1,0 +1,6 @@
+subscription_id   = "c9cd7bb0-eb0b-48a2-a9b3-c006a3de570f"
+client_id         = "277fd00d-c6d7-417c-ae40-a74ef108027b"
+client_secret     = "5i38Q~YeN5NOYbmGdMpDceYI9bQejF3q8-9lRbWO"
+tenant_id         = "b6b466ee-468d-4011-b9fc-fbdcf82ac90a"
+sqladmin_username = "erick"
+sqladmin_password = "#050.Ada0"
